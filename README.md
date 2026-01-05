@@ -81,19 +81,22 @@
 - 5+ years of Classical & Kathak Training
 
 ---
-
-## 📈 GitHub Stats
+## 📊 GitHub Performance Overview  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ishita-0-PNG&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishita-0-PNG&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ishita-0-PNG&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Ishita-0-PNG&theme=tokyonight&hide_border=true" />
 </p>
 
----
-## 🏆 GitHub Trophies  
+<br/>
+
+## 🏆 Achievements & Trophies  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ishita-0-PNG&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishita-0-PNG&theme=radical&no-frame=true&row=1&column=7&margin-w=12" />
 </p>
+
+
 
 
 
