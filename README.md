@@ -86,7 +86,9 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ishita-0-PNG&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Ishita-0-PNG&theme=tokyonight&hide_border=true" />
 </p>
+
 
 <br/>
 
