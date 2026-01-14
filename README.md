@@ -71,6 +71,7 @@
 - 🎯 **Selected for Round 2 – Smart India Hackathon (2025)**  
 - 📊 **Deloitte Australia Data Analytics Simulation**  
 - 🎧 **Flipkart Runway Season 4 Participant**
+- ☁️**Certificate of Participation – Gen AI Exchange Hackathon 2025 by Google Cloud, powered by Hack2Skill**
 
 ---
 
