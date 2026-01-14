@@ -92,17 +92,6 @@
 
 <br/>
 
-## 🏆 Achievements & Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ishita-0-PNG&theme=radical&no-frame=true&row=1&column=7&margin-w=12" />
-</p>
-
-
-
-
-
----
 
 ## 👀 Visitor Count  
 <p align="center">
