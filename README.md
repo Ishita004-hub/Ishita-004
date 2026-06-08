@@ -69,20 +69,10 @@
 ---
 
 ## 🏆 Achievements  
-- 🥇 **Rank 30/5000** – IIIT Nagpur “Code O’ Phile” Coding Contest  
-- 🎯 **Selected for Round 2 – Smart India Hackathon (2025)**  
+- 🥇 **Rank 30/5000** – IIIT Nagpur “Code O’ Phile” Coding Contest    
 - 📊 **Deloitte Australia Data Analytics Simulation**  
-- 🎧 **Flipkart Runway Season 4 Participant**
-- ☁️**Certificate of Participation – Gen AI Exchange Hackathon 2025 by Google Cloud, powered by Hack2Skill**
 
 ---
-
-## 📚 Workshops & Activities  
-- Ethical Hacking & Bug Bounty Workshop  
-- Emerging Technology Trends Seminar  
-- Active **NSS Volunteer (Govt. of India)**  
-- 5+ years of Classical & Kathak Training
-
 ---
 ## 📊 GitHub Performance Overview  
 
